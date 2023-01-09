@@ -1,8 +1,9 @@
 {
-   "name": "Electon and Express with Bytenode",
+   "name": "electron-express-bytenode",
    "description": "This is a simple electron + express app alongside with Bytenode for your electron and express source protection",
    "author": "Mohammad Nabi <mnabimd@gmail.com>",
    "license": "MIT",
+   "repository": "https://github.com/mnabimd/electron-express-bytenode",
    "version": "1.0.0",
    "main": "main.js",
    "scripts": {
