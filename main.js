@@ -1,6 +1,6 @@
 'use strict';
 
-const bytenode = require('../../');
+const bytenode = require('bytenode');
 const fs = require('fs');
 const v8 = require('v8');
 
